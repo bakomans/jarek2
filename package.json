@@ -1,6 +1,4 @@
 {
-  "homepage": "https://bakomans.github.io/jarek2",
-
   "name": "jarek",
   "private": true,
   "version": "0.0.0",
@@ -14,23 +12,23 @@
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
-    "@fortawesome/fontawesome-svg-core": "^1.4.0", 
-    "@fortawesome/free-solid-svg-icons": "^5.15.4", 
+    "@fortawesome/fontawesome-svg-core": "^6.5.1",
+    "@fortawesome/free-solid-svg-icons": "^6.5.1",
     "@fortawesome/react-fontawesome": "^0.2.0",
-    "bootstrap": "^5.3.0", 
-    "react": "^18.0.2", 
-    "react-dom": "^18.0.2", 
-    "react-router-dom": "^6.1.2", 
-    "gh-pages": "^3.2.3" 
+    "bootstrap": "^5.3.2",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.9.2",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.21.2"
   },
   "devDependencies": {
-    "@types/react": "^18.0.3", 
-    "@types/react-dom": "^18.0.3", 
-    "@vitejs/plugin-react": "^1.0.6", 
-    "eslint": "^8.9.0", 
-    "eslint-plugin-react": "^7.27.0", 
+    "@types/react": "^18.2.43",
+    "@types/react-dom": "^18.2.17",
+    "@vitejs/plugin-react": "^4.2.1",
+    "eslint": "^8.55.0",
+    "eslint-plugin-react": "^7.33.2",
     "eslint-plugin-react-hooks": "^4.6.0",
-    "eslint-plugin-react-refresh": "^0.4.3", 
-    "vite": "^2.7.5" 
+    "eslint-plugin-react-refresh": "^0.4.5",
+    "vite": "^5.0.8"
   }
 }
