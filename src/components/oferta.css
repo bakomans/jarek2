@@ -1,0 +1,31 @@
+
+.section-title {
+    font-size: 2.5em;
+    font-weight: bold;
+    color: #2c3e50; 
+    margin-bottom: 30px; 
+  }
+  .section-accent {
+    display: block;
+    width: 60px;
+    height: 3px;
+    background-color: #3498db; 
+    margin-bottom: 30px; 
+  }
+  .offer-text {
+    font-size: 1.2em;
+    color: #555; 
+    line-height: 1.6;
+  }
+  .offer-list {
+    margin-top: 20px;
+    padding-left: 20px;
+  }
+  .offer-list-item {
+    font-weight: bold;
+    color: #3498db; 
+  }
+  .offer-highlight {
+    font-weight: bold;
+    color: #e74c3c; 
+  }
