@@ -1,7 +1,7 @@
 // components/Contact.jsx
 import React, { useState } from 'react';
 import { Container, Row, Col, Button, Form } from 'react-bootstrap';
-import './Contact.css'; // Importuj plik stylów
+import './contact.css'; // Importuj plik stylów
 
 const Contact = () => {
   const [formData, setFormData] = useState({
